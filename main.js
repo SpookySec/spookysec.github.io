@@ -1582,7 +1582,7 @@
     }, {}],
     35: [function(require, module, exports) {
         function env(env) {
-            env.output("L3N1cGVyc2VjcmV0ZGlyaGVyZQ==");
+            env.output("If you still remember the CTF you're on OG, anyway check my YouTube channel @spookysec");
             env.exit()
         }
         module.exports = env
